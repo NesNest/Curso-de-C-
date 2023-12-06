@@ -1,0 +1,14 @@
+E:\Practicas\CursoDeCS\formatocadena\bin\Debug\net7.0\formatocadena.exe
+E:\Practicas\CursoDeCS\formatocadena\bin\Debug\net7.0\formatocadena.deps.json
+E:\Practicas\CursoDeCS\formatocadena\bin\Debug\net7.0\formatocadena.runtimeconfig.json
+E:\Practicas\CursoDeCS\formatocadena\bin\Debug\net7.0\formatocadena.dll
+E:\Practicas\CursoDeCS\formatocadena\bin\Debug\net7.0\formatocadena.pdb
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\formatocadena.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\formatocadena.AssemblyInfoInputs.cache
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\formatocadena.AssemblyInfo.cs
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\formatocadena.csproj.CoreCompileInputs.cache
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\formatocadena.dll
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\refint\formatocadena.dll
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\formatocadena.pdb
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\formatocadena.genruntimeconfig.cache
+E:\Practicas\CursoDeCS\formatocadena\obj\Debug\net7.0\ref\formatocadena.dll

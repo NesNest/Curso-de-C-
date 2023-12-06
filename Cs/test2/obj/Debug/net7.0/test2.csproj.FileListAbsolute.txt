@@ -1,0 +1,14 @@
+E:\Practicas\CursoDeCS\test2\bin\Debug\net7.0\test2.exe
+E:\Practicas\CursoDeCS\test2\bin\Debug\net7.0\test2.deps.json
+E:\Practicas\CursoDeCS\test2\bin\Debug\net7.0\test2.runtimeconfig.json
+E:\Practicas\CursoDeCS\test2\bin\Debug\net7.0\test2.dll
+E:\Practicas\CursoDeCS\test2\bin\Debug\net7.0\test2.pdb
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\test2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\test2.AssemblyInfoInputs.cache
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\test2.AssemblyInfo.cs
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\test2.csproj.CoreCompileInputs.cache
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\test2.dll
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\refint\test2.dll
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\test2.pdb
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\test2.genruntimeconfig.cache
+E:\Practicas\CursoDeCS\test2\obj\Debug\net7.0\ref\test2.dll
